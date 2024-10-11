@@ -1,0 +1,58 @@
+[
+    {"question": "1. What root vegetable was traditionally used to carve Jack-O-Lanterns?",
+    "A": "Pumpkin",
+    "B": "Turnip",
+    "C": "Sweet Potato",
+    "D": "Carrot",
+    "Answer": "B"
+    },
+    {"question": "2. Transylvania is commonly associated with Dracula. Where is this region located?",
+    "A": "Scotland",
+    "B": "Bulgaria",
+    "C": "Wales",
+    "D": "Romania",
+    "Answer": "D"
+    },
+    {"question": "3. What iconic accessory did Michael Jackson wear in the Thriller music video?",
+    "A": "A single white glove",
+    "B": "A red leather jacket",
+    "C": "A black fedora",
+    "D": "A Moonwalking Shoe",
+    "Answer": "B"
+    },
+    {"question": "4. What date is Halloween celebrated",
+    "A": "October 31",
+    "B": "November 1",
+    "C": "October 30",
+    "D": "October 29",
+    "Answer": "A"
+    },
+    {"question": "5. In which country did the tradition of trick-or-treating originate?",
+    "A": "Ireland",
+    "B": "United States",
+    "C": "Mexico",
+    "D": "Canada",
+    "Answer": "A"
+    },
+    {"question": "6. What do people typically wear on Halloween to ward off evil spirits?",
+    "A": "Capes",
+    "B": "Garlic",
+    "C": "Silver Jewellery",
+    "D": "Masks",
+    "Answer": "D"
+    },
+    {"question": "7. Which ancient Roman festival is believed to have influenced Halloween?",
+    "A": "Saturnalia",
+    "B": "Lupercalia",
+    "C": "Feralia",
+    "D": "Ides of March",
+    "Answer": "C"
+    },
+    {"question": "8. Which classic horror novel was written by Mary Shelley? ",
+    "A": "Dracula",
+    "B": "The Haunting of Hill House ",
+    "C": "The Tell-Tale Heart",
+    "D": "Frankenstein",
+    "Answer": "D"
+    }
+]
